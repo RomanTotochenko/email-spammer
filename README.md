@@ -1,16 +1,14 @@
-<div align="center">
+# SpamEm {Email Bombing} 
+Version: v1.0~26.05.2017
+Twitter:- @swetabhsuman8 , @HackerNucleus
+website:- http://www.hackernucleus.com
 
-Best Email & SMS Flooder
-![Status](https://img.shields.io/badge/status-working-lime)
 
-</div>
+Watch youtube channel for steps: https://www.youtube.com/ethicalhackingtutorialvideos
 
-## Steps
-  **1.** Install NodeJS - https://nodejs.org/en/download/
- 
-  **2.** Run the "**run.bat**" file to start
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
-  **3.** Enter email and press enter
-
-## Legal Disclaimer
-* This tool is provided for informational purposes only and is not intended to be used for any illegal or unauthorized activity, including but not limited to spamming of websites. We do not endorse or condone any such activities.
+# LEGAL NOTICE
+THIS SOFTWARE IS PROVIDED FOR EDUCATIONAL USE ONLY! IF YOU ENGAGE IN ANY ILLEGAL ACTIVITY THE AUTHOR DOES NOT TAKE ANY RESPONSIBILITY FOR IT. BY USING THIS SOFTWARE YOU AGREE WITH THESE TERMS.
